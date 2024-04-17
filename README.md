@@ -16,7 +16,7 @@
 </div>
 
 ### Sobre mim:
-> "Atualmente sou um aluno em Ciências da Computação na PUC Minas. Dedicado a tecnologia e busca por novos desafios."
+> "Atualmente sou um aluno em Ciências da Computação na PUC Minas. Dedicado a tecnologia e a busca por novos desafios."
 
 
 
