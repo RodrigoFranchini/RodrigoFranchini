@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoFranchini&size_weight=0.5&count_weight=0.5&theme=dracula)
 
-### Tecnologias do dia a dia
+### Tecnologias do dia a dia 📱
 
 <div  style = "display": inline_block"><br/>
     <img align="center" alt = "Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
