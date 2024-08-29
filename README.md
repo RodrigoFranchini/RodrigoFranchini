@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-franchini-cecchin-b394a9304/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigofranchini_/)
-[![Instagram](https://img.shields.io/badge/Monocard-blue?style=for-the-badge&logoColor=white))](https://www.instagram.com/rodrigofranchini_/)
+[![Monocard](https://img.shields.io/badge/Monocard-blue?style=for-the-badge&logoColor=white)](https://mono.direct/rodrigofranchini_)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoFranchini&size_weight=0.5&count_weight=0.5&theme=dracula)
 
