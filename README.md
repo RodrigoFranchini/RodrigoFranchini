@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rodrigo 🙋
 
-[![Contact me](https://img.shields.io/badge/Monocard-E50257?style=for-the-badge&logo=About.me&logoColor=back)](https://mono.direct/rodrigofranchini_)
+[![Contact me](https://img.shields.io/badge/ContactMe-E50257?style=for-the-badge&logo=About.me&logoColor=back)](https://mono.direct/rodrigofranchini_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-franchini-cecchin-b394a9304/)
 
 
