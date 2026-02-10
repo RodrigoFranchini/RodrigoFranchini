@@ -3,9 +3,6 @@
 [![Monocard](https://img.shields.io/badge/Monocard-E50257?style=for-the-badge&logo=About.me&logoColor=back)](https://mono.direct/rodrigofranchini_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-franchini-cecchin-b394a9304/)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoFranchini&size_weight=0.5&count_weight=0.5&theme=dracula)
-
 ### Tecnologias do dia a dia 📱
 
 <div  style = "display": inline_block"><br/>
