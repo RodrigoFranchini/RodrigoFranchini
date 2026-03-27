@@ -17,5 +17,4 @@
 
 ### Sobre mim:
 > "I am a Software Engineering student at PUC Minas, dedicated to technology and the pursuit of new challenges."
----
 
