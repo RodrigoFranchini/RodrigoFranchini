@@ -15,6 +15,6 @@
     <img align="center" alt = "React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
-### Sobre mim:
+### About me:
 > "I am a Software Engineering student at PUC Minas, dedicated to technology and the pursuit of new challenges."
 
